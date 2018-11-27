@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sample AlbumList</string>
+    <string name="no_offline_data_msg">No Connectivity. No Offline Data. Pull to Refresh when you have connectivity</string>
+    <string name="offline_msg">No Connectivity. Viewing Offline Data. Pull for Refresh when you have connectivity</string>
+</resources>
